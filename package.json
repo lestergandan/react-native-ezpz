@@ -1,6 +1,6 @@
 {
   "name": "ez123_mobile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -15,8 +15,8 @@
     "lottie-react-native": "2.6.1",
     "moment": "^2.24.0",
     "native-base": "^2.12.0",
-    "react": "16.8.3",
-    "react-native": "^0.59.8",
+    "react": "16.12.0",
+    "react-native": "0.64.2",
     "react-native-animated-loader": "^0.0.7",
     "react-native-datepicker": "^1.7.2",
     "react-native-elements": "^1.1.0",
