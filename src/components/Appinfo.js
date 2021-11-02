@@ -8,10 +8,7 @@ import Modal from 'react-native-modal';
 import { scale, verticalScale, moderateScale } from 'react-native-size-matters';
 import { Actions } from 'react-native-router-flux';
 import Icon from 'react-native-vector-icons/FontAwesome';
-import Page from '@page';
-import CustomNavbar from '@customNavbar'
-import PageFooter from '@page/PageFooter';
-import CardTile from '@cardTile';
+
 import { Metrics } from '@assets/config';
 import { standardColors } from '@assets/config/localdata';
 import { Content, Textarea, CheckBox, List, ListItem } from 'native-base';
